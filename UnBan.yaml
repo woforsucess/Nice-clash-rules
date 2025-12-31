@@ -1,8 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,ol.epicgames.com
   - DOMAIN-SUFFIX,dizhensubao.getui.com
-  - DOMAIN,dl.google.com
-  - DOMAIN-SUFFIX,googletraveladservices.com
+  #- DOMAIN,dl.google.com
+  #- DOMAIN-SUFFIX,googletraveladservices.com
   - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net
   - DOMAIN,origin-a.akamaihd.net
   - DOMAIN,fairplay.l.qq.com
@@ -29,4 +29,5 @@ payload:
   - DOMAIN-SUFFIX,DSmyNAS.org
   - DOMAIN-SUFFIX,FamilyDS.com
   - DOMAIN-SUFFIX,FamilyDS.net
+
   - DOMAIN-SUFFIX,FamilyDS.org
